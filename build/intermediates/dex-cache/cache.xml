@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_7b8489e766b22ee24765c2263b64bfd6528d5751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_46667ac661c03906a3f9a77d1a8507af64a96686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.1_6aaf4ce145adc7e3cc21ca865dfb788d9c08b9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_5e5c2b25217643e1f87c910633c1f5daa44759a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_32c1357d95932a0bb801461c6f3a524ed67b17c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.1_2428340ba784c0842f69ab490c47dbd9d524cc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.1_eae7a527fdda7c7f6baad9c72f40e76b5f95f998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.1_a9540868c94dd40f579f233ac23131556a4ccb69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.1_ccbded01b4ef139153453b6c41e9036ec8844665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_5ab635de8c58b72848559499b93d79bd94730a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.1_6141eb1b7a8eaf49595d669761a8f46144022021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.1_c953baac67ab4f59810b2fbddb2b3892074ba69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_9aab59ac6abe9958e437c8d8fa2dd37a70089a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.1_05c094dd27245289ecdae3c9874d175207245f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_96f52568a585c3d273adb015e7251501d5e33881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\gson-2.6.2_bdfdc349b9266c5ad9c045f41ea0a48202fecd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_695c145ff0655b0e3ff98015953e176ffeb629e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7fa1b6841f9a44fdca664cdea93f34428f214883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_37f88e4a449388bac4546122c77620fbee39ac1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_1a066bb7ffc9c0590e4aa31bfc66918f6405bb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6c9e5e6c1e88092f79d9e48fba29689a89b5ec87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_1d5f86cd4a230a38261740a59411db24a4738579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_0949bf9ba86e680e015f74b8658eef071827400f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\okio-1.6.0_6736ddb2addc6039ce291ec2db459d28edb48335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-11.0.1_8f42c61681acdd3a6aef2203e7fb2f8a3d606322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidDev\Marvin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-11.0.1_4deddc0e1c56cac1e4074308ea86708a7aa1a3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rajesharumugam\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\AndroidDev\Marvin\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_303ffee767365b9c6f51f2e06b089fad4f17ba6f.jar" />
+    </item>
+
+</items>
